@@ -1,8 +1,7 @@
 # Real-Time Hand Gesture Recognition
 
 ## What This Project Does
-This project uses a webcam to recognize a few simple hand gestures in real time.  
-Think of it like teaching your computer to read your hand signs.  
+This project uses a webcam to recognize a few simple hand gestures in real time.   
 
 The app can spot:
 - **Open Palm**  
