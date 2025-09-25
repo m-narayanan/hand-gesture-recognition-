@@ -15,9 +15,7 @@ The app can spot:
 
 ---
 
-## Why I Built It
-Hand gestures are a big part of how humans interact.  
-I wanted to see how far I could go using just a webcam and some smart libraries.  
+## Methodology 
 
 Instead of training a heavy model, I leaned on **MediaPipe Hands**. It already gives you 21 hand landmarks. From there, I wrote simple rules to decide if a finger is open or closed.  
 
@@ -112,13 +110,4 @@ Check the `demo/` folder for a short video showing the gestures in action.
 ## Credits
 - MediaPipe Hands – official docs and examples.  
 - OpenCV – for video and drawing.  
-
----
-
-# requirements.txt
-```
-opencv-python
-mediapipe
-numpy
-```
 
