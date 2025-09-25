@@ -1,12 +1,4 @@
----
-
 # Real-Time Hand Gesture Recognition
-
-## Author
-**Name:** Nayan  
-**Role:** AI Intern Candidate  
-
----
 
 ## What This Project Does
 This project uses a webcam to recognize a few simple hand gestures in real time.  
