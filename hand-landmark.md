@@ -28,7 +28,7 @@
 
 ---
 
-## Way to use
+## The usage method
 
 - **Index, Middle, Ring, Pinky**:  
   Compare **tip (8, 12, 16, 20)** with **PIP joint (6, 10, 14, 18)**.  
@@ -51,6 +51,6 @@ The gesture logic:
 
 ---
 
-*“I used landmark 8 vs 6 for the index finger, 12 vs 10 for the middle, etc. That’s how I decide if a finger is open or closed.”*
+*“I checked whether the finger was open or closed by using landmarks 8 vs 6 for the index finger, 12 vs 10 for the middle finger”*
 
 ---
