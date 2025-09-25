@@ -1,0 +1,24 @@
+
+venv/
+.venv/
+
+pyvenv.cfg
+
+src/__pycache__/
+src/test_gesture_logic.py
+Walkthrough.txt
+a.txt
+# hand-landmark.md
+
+*~
+*.swp
+.DS_Store
+Thumbs.db
+
+__pycache__/
+*.pyc
+
+dist/
+build/
+*.egg-info/
+
